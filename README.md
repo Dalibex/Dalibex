@@ -1,15 +1,15 @@
 ## 👋 Hi, I'm Daniel Linares
 
-💻 Software Engineering Student | 🎮 Game Development Enthusiast
+💻 Software Engineering Student  |  🎮 Game Development Enthusiast
 
 ---
 
-## 🌟 **About me**
+## ❄️  **About me**  ❄️ 
 I'm a software engineering student at UMA, passionate about game development and working on
 expanding my knowledge
  
-- ❄️ Exploring: **[Web development]**
-- ❄️ Interests: **[Game development & modding]**
+- Exploring: **[Web development]**
+- Interests: **[Game development & modding]**
 
 ---
 
