@@ -4,7 +4,7 @@
 
 ## ❄️  **About me**  ❄️ 
 
-💻 Software engineering student at UMA
+💻 Software engineering student at UMA  
 👾 Into game development and modding
  
 ---
@@ -17,5 +17,3 @@
 - **Databases:** MySQL, SQL Server
 - **Tools & IDEs:** VS & VS Code, IntelliJ, Github Desktop
 - **Spoken Languages:** Spanish & English — currently studying Japanese
-
----
