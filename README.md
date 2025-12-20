@@ -1,20 +1,23 @@
 ## 👋 Hi, I'm Dalibex!
 
+## ❄️ **About me** ❄️ 
 
-## ❄️  **About me**  ❄️ 
-
-💻 Software engineering student
-👾 Into game development and modding
-
+* 💻 **Software Engineering Student**
+* 👾 **Game Development & Modding enthusiast**
+* 🤖 **Currently building [Gaia](https://github.com/tu-usuario/Discord-Bot-Gaia)**, a multifunctional Discord bot integrating Google's Gemma AI and RPG mechanics!
 
 ## 🛠️ **Technical Skills** 🛠️
-- **Languages:** Java, C#, SQL
+
+* Here I show everything *I know*. I am more experienced with **Java** & **Back-end**.
+
+- **Languages:** Python (AI & Bots), Java, C#, SQL
+- **AI & Bot Dev:** Google Generative AI (Gemma), Discord.py
 - **Game Dev Tools:** Unity, Aseprite
-- **Front:** HTML, CSS, JavaScript, React
-- **Back:** Node.js, Express, Spring Boot
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node.js, Express, Spring Boot
 - **Databases:** MySQL, SQL Server
-- **Tools & IDEs:** VS & VS Code, IntelliJ, Github Desktop
-- **Spoken Languages:** Spanish & English — currently studying Japanese
+- **Tools & IDEs:** VS & VS Code, IntelliJ, GitHub Desktop
+- **Spoken Languages:** Spanish & English — currently studying Japanese 🇯🇵
 
-
-
+---
+*“Building worlds, whether in code, games, or AI.”*
