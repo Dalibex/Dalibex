@@ -4,7 +4,7 @@
 
 * 💻 **Software Engineering Student**
 * 👾 **Game Development & Modding enthusiast**
-* 🤖 **Currently building [Gaia]([https://github.com/tu-usuario/Discord-Bot-Gaia](https://github.com/Dalibex/Discord-Bot-Gaia))**, a multifunctional Discord bot integrating Google's Gemma AI and RPG mechanics!
+* 🤖 **Currently building [Gaia](https://github.com/Dalibex/Discord-Bot-Gaia)**, a multifunctional Discord bot integrating Google's Gemma AI and RPG mechanics!
 
 ## 🛠️ **Technical Skills** 🛠️
 
