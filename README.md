@@ -1,9 +1,9 @@
-## 👋 Hi, I'm Daniel Linares / Dalibex
+## 👋 Hi, I'm Dalibex!
 
 
 ## ❄️  **About me**  ❄️ 
 
-💻 Software engineering student  
+💻 Software engineering student
 👾 Into game development and modding
 
 
@@ -15,5 +15,6 @@
 - **Databases:** MySQL, SQL Server
 - **Tools & IDEs:** VS & VS Code, IntelliJ, Github Desktop
 - **Spoken Languages:** Spanish & English — currently studying Japanese
+
 
 
