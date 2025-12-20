@@ -20,4 +20,4 @@
 - **Spoken Languages:** Spanish & English — currently studying Japanese 🇯🇵
 
 ---
-*“Building worlds, whether in code, games, or AI.”*
+*“Building worlds, whether in code, games, or modding.”*
