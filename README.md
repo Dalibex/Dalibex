@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dalibex&fontSize=90&animation=fadeIn" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dalibex&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=40" /></p>
 
 ## 👋 Hi, I'm Dalibex!
 
@@ -10,7 +10,7 @@
 ### Proyects I'm Working on Right Now
 
 * 🤖 **Currently building [Gaia](https://github.com/Dalibex/Discord-Bot-Gaia)**, a multifunctional Discord bot integrating Google's Gemma AI and RPG mechanics!
-* ⚔️ **Developed [UHC-DBasic](https://github.com/Dalibex/UHC-DBasic)** | [V: 1.0-SNAPSHOT], a lightweight Ultra Hardcore engine for Minecraft Paper 1.21.
+* ⚔️ **Developed [UHC-DBasic](https://github.com/Dalibex/UHC_Plugin)** [V: 1.0-SNAPSHOT], a lightweight Ultra Hardcore engine for Minecraft Paper 1.21.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 🎮 Game Dev & Modding
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![MC Modding & Plugins](https://img.shields.io/badge/MC_Modding_&_Pluginst%20API-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![MC Modding & Plugins](https://img.shields.io/badge/MC_Modding_&_Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
