@@ -10,7 +10,7 @@
 ### Proyects I'm Working on Right Now
 
 * 🤖 **Currently building [Gaia](https://github.com/Dalibex/Discord-Bot-Gaia)**, a multifunctional Discord bot integrating Google's Gemma AI and RPG mechanics!
-* ⚔️ **Developed [UHC-DBasic](https://github.com/Dalibex/UHC_Plugin)** [V: 1.0-SNAPSHOT], a lightweight Ultra Hardcore engine for Minecraft Paper 1.21.
+* ⚔️ **Developed [ELOUD UHC](https://github.com/Dalibex/UHC_Plugin)** [V: 1.1.0-SNAPSHOT], a lightweight Ultra Hardcore plug-in for Minecraft Paper 1.21.11
 
 ---
 
@@ -49,3 +49,4 @@
 <p align="center">
   <i>“Building worlds, whether in code, games, or modding.”</i>
 </p>
+
