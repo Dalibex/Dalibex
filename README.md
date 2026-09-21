@@ -9,7 +9,7 @@
 
 ### Proyects I'm Working on Right Now
 
-* ⚔️ **Developed [UHC ELOUD](https://github.com/Dalibex/UHC_Plugin)** [V: 1.5.2-SNAPSHOT] - a lightweight Ultra Hardcore plug-in for Minecraft 1.21.11 & 26.2
+* ⚔️ **Developed [UHC ELOUD](https://github.com/Dalibex/UHC_Plugin)** [V: 1.5.3-SNAPSHOT] - a lightweight Ultra Hardcore plug-in for Minecraft 1.21.11 & 26.2
 
 ---
 
