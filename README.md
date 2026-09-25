@@ -27,20 +27,12 @@ A lightweight **Ultra Hardcore plugin** for Minecraft servers, focused on custom
 
 ## 🛠️ **Technical Skills**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalibex&layout=compact&theme=tokyonight&hide_border=true" height="175" />
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,nodejs,spring,unity,git,github,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,grafana,java,python,nodejs,spring,git,github,idea,vscode,bash&theme=dark" />
 </p>
 
-## 💻 Languages & Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 ## ⚙️ Systems & DevOps Trainee
-![IT Support](https://img.shields.io/badge/IT_Support-2563EB?style=for-the-badge&logo=windows&logoColor=white)
+![IT](https://img.shields.io/badge/IT_Support-2563EB?style=for-the-badge&logo=windows&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=linux&logoColor=white)
 ![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-1E3A8A?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -53,11 +45,11 @@ A lightweight **Ultra Hardcore plugin** for Minecraft servers, focused on custom
 
 ---
 
-### 🌐 **Languages I Speak**
+## 🌐 **Languages**
 - 🇪🇸 **Spanish** (Native) | 🇺🇸 **English** (Advanced) | 🇯🇵 **Japanese** (Learning)
 
 <p align="center">
-  <i>“Building worlds, whether in code, games, or modding.”</i>
+  <i>“Building worlds.”</i>
 </p>
 
 <p align="center">
