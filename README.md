@@ -21,46 +21,37 @@
 
 ## ⭐ Featured Projects
 
-#### 🔥 FireSentinel · Wildfire detection
-
-[![Live demo](https://img.shields.io/badge/Live_demo-firesentinel.dalibex.dev-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://firesentinel.dalibex.dev)
-![Malackathon III](https://img.shields.io/badge/Malackathon_III-INDRA_Space_challenge-1e3a8a?style=flat-square)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-image](https://img.shields.io/badge/scikit--image-2E5A88?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-Wildfire analysis on **Sentinel-2** satellite imagery: outlines the burned area and its perimeter, detects active fire spots and fronts, and estimates smoke direction. No model training, just rules based on SWIR band physics with per-scene thresholds.
-
-**[View repository →](https://github.com/Dalibex/satellite-wildfire-detection-and-analysis)**
-
-#### ⚔️ UHC ELOUD
-
-[![Release](https://img.shields.io/github/v/release/Dalibex/eloud-uhc?style=flat-square&color=blueviolet)](https://github.com/Dalibex/eloud-uhc/releases/latest)
-[![Download on CurseForge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.cfwidget.com%2Fminecraft%2Fbukkit-plugins%2Fuhc-eloud&query=%24.downloads.total&suffix=%2B%20downloads&label=Download%20on%20CurseForge&logo=curseforge&logoColor=white&color=F16436&style=flat-square)](https://www.curseforge.com/minecraft/bukkit-plugins/uhc-eloud)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-[![Paper](https://img.shields.io/badge/Paper-FFFFFF?style=flat-square)](https://papermc.io/)
-[![Purpur](https://img.shields.io/badge/Purpur-7C3AED?style=flat-square)](https://purpurmc.org/)
+### ⚔️ UHC ELOUD
 
 A lightweight **Ultra Hardcore plugin** for hosted Minecraft matches with your friends: scatter, chapters, teams, identities, supplies and admin tools, available in 5 languages.
 
-**[View repository →](https://github.com/Dalibex/eloud-uhc)**
+`Java` [`Paper`](https://papermc.io/) [`Purpur`](https://purpurmc.org/)
 
-#### 🏙️ UrbanPulse
+[![Release](https://img.shields.io/github/v/release/Dalibex/eloud-uhc?style=flat-square&color=7c3aed)](https://github.com/Dalibex/eloud-uhc/releases/latest)
+[![Download on CurseForge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.cfwidget.com%2Fminecraft%2Fbukkit-plugins%2Fuhc-eloud&query=%24.downloads.total&suffix=%2B%20downloads&label=CurseForge&logo=curseforge&logoColor=white&color=7c3aed&style=flat-square)](https://www.curseforge.com/minecraft/bukkit-plugins/uhc-eloud)
 
-![Status: WIP](https://img.shields.io/badge/status-WIP-F59E0B?style=flat-square)
-![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![View repository](https://img.shields.io/badge/View_repository-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dalibex/eloud-uhc)
+
+### 🔥 FireSentinel · Wildfire detection
+
+Wildfire analysis on **Sentinel-2** satellite imagery: outlines the burned area and its perimeter, detects active fire spots and fronts, and estimates smoke direction. No model training, just rules based on SWIR band physics with per-scene thresholds.
+
+Made at **Malackathon III** · INDRA Space challenge
+
+`Python` `FastAPI` `OpenCV` `scikit-image` `React` `TypeScript`
+
+[![View repository](https://img.shields.io/badge/View_repository-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dalibex/satellite-wildfire-detection-and-analysis)
+[![Live demo](https://img.shields.io/badge/Live_demo-24292f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://firesentinel.dalibex.dev)
+
+### 🏙️ UrbanPulse
 
 Platform for managing urban incidents reported by citizens, enriched with contextual data from the city of Málaga.
 
-**[View repository →](https://github.com/Dalibex/urban-incidence-manager)**
+🚧 Work in progress
+
+`Java 25` `Spring Boot` `PostgreSQL + PostGIS` `Docker`
+
+[![View repository](https://img.shields.io/badge/View_repository-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dalibex/urban-incidence-manager)
 
 ## 🛠️ Tech Stack
 
@@ -68,10 +59,9 @@ Platform for managing urban incidents reported by citizens, enriched with contex
   <tr>
     <td><b>Infra</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,aws&theme=dark" height="28" alt="Linux, Bash, Ansible, Docker, AWS" />
-      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge" alt="Zabbix" />
-      <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
+      <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,aws,grafana&theme=dark" height="28" alt="Linux, Bash, Ansible, Docker, AWS, Grafana" />
+      <img src="https://cdn.simpleicons.org/proxmox" height="28" alt="Proxmox" title="Proxmox" />
+      <img src="https://cdn.simpleicons.org/openvpn" height="28" alt="OpenVPN" title="OpenVPN" />
     </td>
   </tr>
   <tr>
@@ -91,12 +81,6 @@ Platform for managing urban incidents reported by citizens, enriched with contex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalibex&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" height="120" alt="Top languages" />
 </p>
 
----
-
-### 🌐 Languages
+## 🌐 Languages
 
 🇪🇸 **Spanish** (Native) | 🇺🇸 **English** (Advanced) | 🇯🇵 **Japanese** (Starter)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineering&descSize=18&descAlignY=80&fontColor=ffffff" />
-</p>
