@@ -58,7 +58,11 @@ Platform for managing urban incidents reported by citizens, enriched with contex
 <table>
   <tr>
     <td><b>Infra</b></td>
-    <td nowrap><img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,aws,grafana&theme=dark" height="28" alt="Linux, Bash, Ansible, Docker, AWS, Grafana" />&nbsp;<img src="https://cdn.simpleicons.org/proxmox" height="28" alt="Proxmox" title="Proxmox" />&nbsp;<img src="https://cdn.simpleicons.org/openvpn" height="28" alt="OpenVPN" title="OpenVPN" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,aws,grafana&theme=dark" height="28" alt="Linux, Bash, Ansible, Docker, AWS, Grafana" />
+      <img src="https://cdn.simpleicons.org/proxmox" height="28" alt="Proxmox" title="Proxmox" />
+      <img src="https://cdn.simpleicons.org/openvpn" height="28" alt="OpenVPN" title="OpenVPN" />
+    </td>
   </tr>
   <tr>
     <td><b>Backend & Web</b></td>
